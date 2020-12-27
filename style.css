@@ -20,8 +20,3 @@
 .buttons:not(:first-of-type){
 	margin-top: 20px;
 }
-
-.osu{
-	height:30px;
-	width:100px;
-}
